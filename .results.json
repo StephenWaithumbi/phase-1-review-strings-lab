@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-09-24T05:46:09.285Z",
-    "end": "2024-09-24T05:46:09.694Z",
-    "duration": 409
+    "start": "2024-09-24T17:29:14.698Z",
+    "end": "2024-09-24T17:29:15.112Z",
+    "duration": 414
   },
   "tests": [
     {
@@ -48,7 +48,7 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
